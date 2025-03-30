@@ -9,6 +9,6 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo tres perros y un caracol
-- Me gsuta la fotografia
+- Este es mi primer contacto real con github
+- Tengo tres perros y un caracol de rio
+- Me gusta la fotografia y cocinar
